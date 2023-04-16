@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": "d228ac9f-d1e9-4ef6-b9d9-000328170602",
+      "title": "",
+      "body": "",
+      "name": "Nitesh",
+      "username": "nit123"
+    },
+    {
+      "id": "fb0c94c1-51e4-4487-8163-6e1a1f99a7ff",
+      "name": "Ashutosh",
+      "username": "ashu123"
+    },
+    {
+      "id": "5d94dd75-1535-4407-831a-2148bee357e8",
+      "title": "",
+      "body": "",
+      "name": "Sanju",
+      "username": "sanju123"
+    }
+  ]
+}
